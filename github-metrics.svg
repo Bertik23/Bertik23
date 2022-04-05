@@ -616,7 +616,7 @@ Lepší readme i pro nelinuxáky.</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 384k out of 88m users</span>
+                                    <span class="gh">ranked 385k out of 88m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">55</div>
                                     </div>
@@ -1282,7 +1282,7 @@ Chceme uložit a spustit raw script ne html githubu s tím scriptem.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Apr 2022, 19:24:46 (timezone Europe/Prague) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 5 Apr 2022, 20:28:43 (timezone Europe/Prague) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
