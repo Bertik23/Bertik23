@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1448" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1715" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none;position:relative}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none;position:relative}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -447,6 +447,194 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 47 commits in
+                                        <span class="repo">Bertik23/krajta</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f41c16b</div>
+                                        <div class="message">gh-91914: Fix test_curses on non-UTF-8 locale (GH-91919)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#36306cf</div>
+                                        <div class="message">gh-91915: Fix test_netrc on non-UTF-8 locale (GH-91918)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5397b5a</div>
+                                        <div class="message">gh-91860: Add typing.dataclass_transform (PEP 681) (#91861)
+
+Copied from typing-extensions (python/typing#1054, python/typing#1120).
+
+Documentation is intentionally omitted, so we can focus on getting the
+runtime part in before the feature freeze.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d174ebe</div>
+                                        <div class="message">gh-91217: deprecate sunau (GH-91866)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd5726f</div>
+                                        <div class="message">gh-91401: Add a failsafe way to disable vfork. (#91490)
+
+Just in case there is ever an issue with _posixsubprocess's use of
+vfork() due to the complexity of using it properly and potential
+directions that Linux platforms where it defaults to on could take, this
+adds a failsafe so that users can disable its use entirely by setting
+a global flag.
+
+No known reason to disable it exists. But it'd be a shame to encounter
+one and not be able to use CPython without patching and rebuilding it.
+
+See the linked issue for some discussion on reasoning.
+
+Also documents the existing way to disable posix_spawn.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eddd07f</div>
+                                        <div class="message">bpo-46907: Update Windows installer to SQLite 3.38.2 (GH-32147)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#64a54e5</div>
+                                        <div class="message">gh-91719: Add pycore_opcode.h internal header file (#91906)
+
+Move the following API from Include/opcode.h (public C API) to a new
+Include/internal/pycore_opcode.h header file (internal C API):
+
+* EXTRA_CASES
+* _PyOpcode_Caches
+* _PyOpcode_Deopt
+* _PyOpcode_Jump
+* _PyOpcode_OpName
+* _PyOpcode_RelativeJump</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#20cc695</div>
+                                        <div class="message">gh-64783: Fix signal.NSIG value on FreeBSD (#91929)
+
+Fix signal.NSIG value on FreeBSD to accept signal numbers greater
+than 32, like signal.SIGRTMIN and signal.SIGRTMAX.
+
+* Add Py_NSIG constant.
+* Add pycore_signal.h internal header file.
+* _Py_Sigset_Converter() now includes the range of valid signals in
+  the error message.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#61381d7</div>
+                                        <div class="message">gh-89653: PEP 670: Functions don't cast pointers (#91697)
+
+In the limited C API version 3.11 and newer, the following functions
+no longer cast their object pointer argument with _PyObject_CAST() or
+_PyObject_CAST_CONST():
+
+* Py_REFCNT(), Py_TYPE(), Py_SIZE()
+* Py_SET_REFCNT(), Py_SET_TYPE(), Py_SET_SIZE()
+* Py_IS_TYPE()
+* Py_INCREF(), Py_DECREF()
+* Py_XINCREF(), Py_XDECREF()
+* Py_NewRef(), Py_XNewRef()
+* PyObject_TypeCheck()
+* PyType_Check()
+* PyType_CheckExact()
+
+Split Py_DECREF() implementation in 3 versions to make the code more
+readable.
+
+Update the xxlimited.c extension, which uses the limited C API
+version 3.11, to pass PyObject* to these functions.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1cd8c29</div>
+                                        <div class="message">gh-91880: add try/except around `signal.signal` (#91881)
+
+Fixes gh-91880.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#54d068a</div>
+                                        <div class="message">gh-91904: Fix setting envvar PYTHONREGRTEST_UNICODE_GUARD (GH-91905)
+
+It always failed on non-UTF-8 locale and prevented running regrtests.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#93d2801</div>
+                                        <div class="message">gh-90633: Improve error and docs for typing.assert_never (#91720)
+
+Closes #90633
+
+Co-authored-by: Alex Waygood &lt;Alex.Waygood@Gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9ff2f12</div>
+                                        <div class="message">gh-84461: Include _emscripten_info in pythoninfo output (GH-91907)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f7641a2</div>
+                                        <div class="message">gh-91888: add a `:gh:` role to the documentation (#91889)
+
+* Add a new :gh:`...` role for GitHub issues.
+
+* Fix a GitHub id to use the :gh: role.
+
+* Add Misc/NEWS entry.
+
+* Refactoring and rephrasing.
+
+Co-authored-by: Hugo van Kemenade &lt;hugovk@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4403320</div>
+                                        <div class="message">Rewrite audio.py to jive with image.py (#91886)
+
+Similar to the rewrite of email/mime/image.py and associated test after the
+deprecation of imghdr.py, thisrewrites email/mime/audio.py and associated
+tests after the deprecation of sndhdr.py.
+
+Closes #91885</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e93d2fb</div>
+                                        <div class="message">gh-91821: Make decimal test succeed consistently (#91825)
+
+The test relies on precision being set to 9, but some ways of
+invoking this test leave it set to 28 instead. I don't know
+exactly how it happens, but setting the precision directly should
+make the behavior consistent.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dd3cf12</div>
+                                        <div class="message">gh-91491: What's New in 3.11 section for typing PEPs (#91721)
+
+Other aspects of typing aren't covered yet; I'll do that in a
+separate PR.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0907217</div>
+                                        <div class="message">Simplify testing the warning filename (GH-91868)
+
+The context manager result has the "filename" attribute.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b4e0484</div>
+                                        <div class="message">gh-91230: Concise catch_warnings with simplefilter (#91435)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#692e907</div>
+                                        <div class="message">gh-91217: deprecate spwd (#91846)
+
+Co-authored-by: Hugo van Kemenade &lt;hugovk@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -502,38 +690,6 @@
                                     <div class="commit">
                                         <div class="sha">#3e81e72</div>
                                         <div class="message">print -&gt; tiskni</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">Bertik23/krajta</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2134de2</div>
-                                        <div class="message">nonlocal -&gt; nemistni</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d1fe0b3</div>
-                                        <div class="message">global -&gt; svetovy</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b38b20</div>
-                                        <div class="message">elif -&gt; jindyz</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a199344</div>
-                                        <div class="message">'od' -&gt; "od"</div>
                                     </div>
                                 </div>
                             </section>
@@ -1250,7 +1406,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Apr 2022, 09:23:09 (timezone Europe/Prague) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 29 Apr 2022, 10:31:32 (timezone Europe/Prague) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
