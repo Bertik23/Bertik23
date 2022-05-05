@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1631" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1645" class="">
     <defs>
         <style/>
     </defs>
@@ -49,7 +49,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -75,7 +75,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            817 Commits
+                            818 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -457,6 +457,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#bd1bd9c</div>
+                                        <div class="message">další ukázky</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Bertik23/maturita-literatura</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#c312213</div>
                                         <div class="message">ukázky</div>
                                     </div>
@@ -513,26 +533,6 @@
                                     <div class="commit">
                                         <div class="sha">#0af3bb3</div>
                                         <div class="message">jsem zapomněl na pdfko</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Bertik23/maturita-literatura</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c3819b9</div>
-                                        <div class="message">\</div>
                                     </div>
                                 </div>
                             </section>
@@ -1268,22 +1268,22 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">4d661b63</span>
-                            <span class="code">assets/bootstrap/scss/mixins/_text-truncate.scss</span>
-                            <span class="code"><span class="snippet additions">++0</span> <span class="snippet deletions">--8</span></span>
+                            <span class="code">assets/bootstrap/scss/mixins/_container.scss</span>
+                            <span class="code"><span class="snippet additions">++0</span> <span class="snippet deletions">--9</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,8 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">// Text truncate<br /></span><span class="token prefix deleted">-</span><span class="token line">// Requires inline-block or block for proper styling<br /></span><span class="token prefix deleted">-</span><span class="token line"><br /></span><span class="token prefix deleted">-</span><span class="token line">@mixin text-truncate() {<br /></span><span class="token prefix deleted">-</span><span class="token line"> overflow: hidden;<br /></span><span class="token prefix deleted">-</span><span class="token line"> text-overflow: ellipsis;<br /></span><span class="token prefix deleted">-</span><span class="token line"> white-space: nowrap;<br /></span><span class="token prefix deleted">-</span><span class="token line">}</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,9 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">// Container mixins<br /></span><span class="token prefix deleted">-</span><span class="token line"><br /></span><span class="token prefix deleted">-</span><span class="token line">@mixin make-container($gutter: $container-padding-x) {<br /></span><span class="token prefix deleted">-</span><span class="token line"> width: 100%;<br /></span><span class="token prefix deleted">-</span><span class="token line"> padding-right: var(--#{$variable-prefix}gutter-x, #{$gutter});<br /></span><span class="token prefix deleted">-</span><span class="token line"> padding-left: var(--#{$variable-prefix}gutter-x, #{$gutter});<br /></span><span class="token prefix deleted">-</span><span class="token line"> margin-right: auto;<br /></span><span class="token prefix deleted">-</span><span class="token line"> margin-left: auto;<br /></span><span class="token prefix deleted">-</span><span class="token line">}</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 May 2022, 10:30:58 (timezone Europe/Prague) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 5 May 2022, 11:24:23 (timezone Europe/Prague) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
