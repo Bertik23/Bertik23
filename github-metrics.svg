@@ -914,7 +914,7 @@ Cancel gymso messages pls</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 987k out of 98m users</span>
+                                    <span class="gh">ranked 988k out of 98m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">10</div>
                                     </div>
@@ -1229,7 +1229,7 @@ Cancel gymso messages pls</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Sept 2022, 21:21:09 (timezone Europe/Prague) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 18 Sept 2022, 22:28:03 (timezone Europe/Prague) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
