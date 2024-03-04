@@ -1083,7 +1083,7 @@ Výročky 2020 + 2022</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.21m out of 77.2m repositories</span>
+                                    <span class="gh">ranked 2.21m out of 81.8m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">8</div>
                                     </div>
@@ -1132,7 +1132,7 @@ Výročky 2020 + 2022</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.17m out of 77.2m repositories</span>
+                                    <span class="gh">ranked 5.17m out of 81.8m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -1278,7 +1278,7 @@ Výročky 2020 + 2022</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Mar 2024, 23:16:41 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Mar 2024, 00:18:45 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
