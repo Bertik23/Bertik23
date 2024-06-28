@@ -1055,7 +1055,7 @@ Pull from upsteam</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.32m out of 209m repositories</span>
+                                    <span class="gh">ranked 2.32m out of 205m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">8</div>
                                     </div>
@@ -1104,7 +1104,7 @@ Pull from upsteam</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.29m out of 209m repositories</span>
+                                    <span class="gh">ranked 5.29m out of 205m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -1213,7 +1213,7 @@ Pull from upsteam</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jun 2024, 07:19:14 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Jun 2024, 08:28:02 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
