@@ -38,12 +38,12 @@
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            50106 Commits
+                            50110 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="418.9804982072216" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="418.9804982072216" y="0" width="13.573287555883862" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="432.55378576310545" y="0" width="11.329543643100681" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="443.8833294062061" y="0" width="10.671096771922892" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="454.554426178129" y="0" width="2.284869111562513" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="456.83929528969156" y="0" width="1.4938967556585194" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="458.3331920453501" y="0" width="0.9640511713852673" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.29724321673535" y="0" width="0.7027567832646552" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="418.9705389942349" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="418.9705389942349" y="0" width="13.572964917330811" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="432.5435039115657" y="0" width="11.329274338589693" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="443.8727782501555" y="0" width="10.670843118767177" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="454.54362136892263" y="0" width="2.284814799969907" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="456.82843616889255" y="0" width="1.5047954966677903" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="458.33323166556033" y="0" width="0.9640282557818277" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.2972599213422" y="0" width="0.7027400786578482" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1082,7 +1082,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.35m out of 213m repositories</span>
+                                    <span class="gh">ranked 2.35m out of 203m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">8</div>
                                     </div>
@@ -1131,7 +1131,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.33m out of 213m repositories</span>
+                                    <span class="gh">ranked 5.33m out of 203m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -1277,7 +1277,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Aug 2024, 18:25:46 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Aug 2024, 19:20:56 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
