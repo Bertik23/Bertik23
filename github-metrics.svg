@@ -636,7 +636,7 @@ Improve bubble sort description</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 329k out of 142m users</span>
+                                    <span class="gh">ranked 329k out of 140m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">76</div>
                                     </div>
@@ -959,7 +959,7 @@ Improve bubble sort description</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 832k out of 142m users</span>
+                                    <span class="gh">ranked 832k out of 140m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">18</div>
                                     </div>
@@ -1114,7 +1114,7 @@ Improve bubble sort description</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.36m out of 211m repositories</span>
+                                    <span class="gh">ranked 2.36m out of 213m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">8</div>
                                     </div>
@@ -1163,7 +1163,7 @@ Improve bubble sort description</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.34m out of 211m repositories</span>
+                                    <span class="gh">ranked 5.34m out of 213m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -1272,7 +1272,7 @@ Improve bubble sort description</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Aug 2024, 19:18:54 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Aug 2024, 20:27:58 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
