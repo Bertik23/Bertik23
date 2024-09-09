@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1527" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1247" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text,.gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text,.gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .user{font-weight:600}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -393,18 +393,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">fiks-org/kucharka</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#deea68c</div>
-                                        <div class="message">marakuja přišel o progress, tak radši taky hned pushuju</div>
+                                        Created new
+                      branch
+                                        <span class="code">feature-dot</span>
+                                        in
+                                        <span class="repo">fiks-org/fiks-pdf</span>
                                     </div>
                                 </div>
                             </section>
@@ -413,19 +409,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#12 Presunuti vyukovych materialu</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by pokorj54 in <span class="repo">fiks-org/fiks</span></div>
-                                    <div class="comment">
-                                        Jo aha, už jsem si všiml v jakým repu to je
-                                        <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                        Ty chceš aby se tohle přestunulo https://github.com/fiks-org/fiks/tree/master/vyukove_mat to by částečně využít šlo. @marakujaa?
+                                        Created new
+                      branch
+                                        <span class="code">master</span>
+                                        in
+                                        <span class="repo">fiks-org/fiks-pdf</span>
                                     </div>
                                 </div>
                             </section>
@@ -434,36 +425,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Commented on
-                                        <span class="issue">#12 Presunuti vyukovych materialu</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by pokorj54 in <span class="repo">fiks-org/fiks</span></div>
-                                    <div class="comment">Myslíš jako obsah týhle stránky https://old.fiks.fit.cvut.cz/p/studijni-materialy napsat ve WooWoo?
-Jinak nechápu co myslíš, protože to jsou prakticky jenom odkazy na Průvodce</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">klubFITpp/klubfitpp</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#671216b</div>
-                                        <div class="message">Redirect HelloFIT</div>
+                                        Created new
+                      branch
+                                        <span class="code">feature-escape-url</span>
+                                        in
+                                        <span class="repo">fiks-org/fiks-pdf</span>
                                     </div>
                                 </div>
                             </section>
@@ -472,34 +441,28 @@ Jinak nechápu co myslíš, protože to jsou prakticky jenom odkazy na Průvodce
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">fiks-org/kucharka</span>
+                                        Created new
+                      branch
+                                        <span class="code">feature-procedure</span>
+                                        in
+                                        <span class="repo">fiks-org/fiks-pdf</span>
                                     </div>
                                 </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0db885b</div>
-                                        <div class="message">merge sort start</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#686f682</div>
-                                        <div class="message">correct name</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cdae8e9</div>
-                                        <div class="message">\gt -&gt; &gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ec530cf</div>
-                                        <div class="message">build pdf</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d7525f8</div>
-                                        <div class="message">merge sort start</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      repository
+                                        <span class="repo">fiks-org/fiks-pdf</span>
                                     </div>
                                 </div>
                             </section>
@@ -1260,7 +1223,7 @@ Jinak nechápu co myslíš, protože to jsou prakticky jenom odkazy na Průvodce
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Sept 2024, 15:28:16 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Sept 2024, 16:24:39 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
