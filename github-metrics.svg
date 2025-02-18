@@ -1073,7 +1073,7 @@ I kdybychom chtěli mít opakující se akce, tak nevím o implementaci, která 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.53m out of 238m repositories</span>
+                                    <span class="gh">ranked 2.53m out of 226m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">8</div>
                                     </div>
@@ -1122,7 +1122,7 @@ I kdybychom chtěli mít opakující se akce, tak nevím o implementaci, která 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.56m out of 238m repositories</span>
+                                    <span class="gh">ranked 5.56m out of 226m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -1231,7 +1231,7 @@ I kdybychom chtěli mít opakující se akce, tak nevím o implementaci, která 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Feb 2025, 04:26:00 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Feb 2025, 05:26:54 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
