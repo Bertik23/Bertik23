@@ -1340,7 +1340,7 @@ NEWS: article about HelloFIT! 2024</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.54m out of 238m repositories</span>
+                                    <span class="gh">ranked 2.54m out of 236m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">8</div>
                                     </div>
@@ -1389,7 +1389,7 @@ NEWS: article about HelloFIT! 2024</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.58m out of 238m repositories</span>
+                                    <span class="gh">ranked 5.58m out of 236m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -1587,7 +1587,7 @@ Co-authored-by: KrykyX &lt;84568503+KrykyX@users.noreply.github.com&gt;
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Mar 2025, 14:24:27 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Mar 2025, 15:20:43 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
