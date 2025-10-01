@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1331" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1607" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.symbol{color:#b44418}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.field.warning{color:#d79533}.field.warning svg{fill:#d79533}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.constant,.token.namespace,.token.symbol{color:#b44418}.token.number{color:#2777aa}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -396,6 +396,231 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 802 commits in
+                                        <span class="repo">Bertik23/llvm-project</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">lsp-server-upstreaming</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#66fd420</div>
+                                        <div class="message">[LV] Don't ignore invariant stores when costing (#158682)
+
+Invariant stores of reductions are removed early in the VPlan
+construction, and there is no reason to ignore them while costing.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a02a5e7</div>
+                                        <div class="message">[AArch64][llvm] (NFC) Rename `[SU]DOT_ZZZI?_{S|D}` and `BFMMLA_ZZZ` to _BtoS/_HtoD/HtoS to clarify (#160139)
+
+Rename instruction references for `[SU]DOT_ZZZI?_{S|D}` and `BFMMLA_ZZZ`
+to _BtoS/_HtoD/_HtoS to better clarify intent, and all cascading changes
+in other places where these names are referenced.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3ca527d</div>
+                                        <div class="message">[AArch64] Add a test case showing both dup and scalar_to_reg in the same function. NFC</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0aba5bf</div>
+                                        <div class="message">Revert "[MLIR][Python] add Python wheel build demo/test" (#160481)
+
+Reverts llvm/llvm-project#160388 because it broke
+[mlir-nvidia](https://lab.llvm.org/buildbot/#/builders/138) builder.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c1aa89e</div>
+                                        <div class="message">[NVPTX] prefetch.tensormap pattern rewriter fix (#159253)
+
+Context: Highlighted from #156830 , this is an Isel lowering issue in
+the NVPTX backend for prefetch.tensormap intrinsic.
+
+It is caused by unchecked pattern rewrite during infer-address-space
+pass.
+This intrinsic is valid only for const, param and generic
+address-spaces.
+Any other address space is invalid. Currently, this intrinsic gets
+falsely
+re-written to target AS(1), when the pointer-argument of the intrinsic
+comes as an argument of a kernel function.
+
+So, this patch adds a check on the correct address-spaces
+before re-writing them.
+
+cc @durga4github 
+
+FYI: @Wolfram70 @rupprecht  @castigli</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e60a573</div>
+                                        <div class="message">[Offload] Print Image location rather than casting it (#160309)
+
+This squishes a warning where the runtime tries to bind a StringRef to
+a `%p`.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c2e8407</div>
+                                        <div class="message">[RISCV] Set riscv-fpimm-cost threshold to 3 by default (#159352)
+
+`-riscv-fp-imm-cost` controls the threshold at which the constant pool
+is used for float constants rather than generating directly (typically
+into a GPR followed by an `fmv`). The value used for this knob indicates
+the number of instructions that can be used to produce the value
+(otherwise we fall back to the constant pool). Upping to to 3 covers a
+huge number of additional constants (see
+&lt;https://github.com/llvm/llvm-project/issues/153402&gt;), e.g. most whole
+numbers which can be generated through lui+shift+fmv. As in general we
+struggle with efficient code generation for constant pool accesses,
+reducing the number of constant pool accesses is beneficial. We are
+typically replacing a two-instruction sequence (which includes a load)
+with a three instruction sequence (two simple arithmetic operations plus
+a fmv), which.
+
+The CHECK prefixes for various tests had to be updated to avoid
+conflicts leading to check lines being dropped altogether (see
+&lt;https://github.com/llvm/llvm-project/pull/159321&gt; for a change to
+update_llc_test_checks to aid diagnosing this).</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f151a36</div>
+                                        <div class="message">[RISCV] Disable slideup optimization on the inconsistent element type of EVec and ContainerVT (#159373)
+
+Fixes https://github.com/llvm/llvm-project/issues/159294
+The element type of EVecContainerVT and ContainerVT can be different
+after promoting integer types.
+This patch disables the slideup optimization in that case.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e60ca86</div>
+                                        <div class="message">[AMDGPU] Refine GCNHazardRecognizer hasHazard() (#138841)
+
+Remove recursion to avoid stack overflow on large CFGs.
+Avoid worklist for hazard search within single MachineBasicBlock.
+Ensure predecessors are visited for all state combinations.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1359f3a</div>
+                                        <div class="message">[MLIR][Python] add Python wheel build demo/test (#160388)
+
+This PR demos and tests building Python wheels using
+[scikit-build-core](https://scikit-build-core.readthedocs.io/en/latest/).
+The test is added to standalone and thus demos "out-of-tree" use cases
+but the same `pyproject.toml` will work for in-tree builds. Note, one
+can easily pair this with
+[cibuildwheel](https://github.com/scikit-build/scikit-build-core/blob/326490975510b2af888e0f319292fc4a9084a033/docs/guide/build.md?plain=1#L221-L226)
+to build for all Python versions, OSs, architectures, etc.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#68bca17</div>
+                                        <div class="message">[AMDGPU] SILowerControlFlow: ensure EXEC/SCC interval recompute (#160459)
+
+Ensure live intervals for EXEC and SCC are removed on all paths which
+generate instructions.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a0d7f8</div>
+                                        <div class="message">[libc++][C++03] cherry-pick #119801 (#158247)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fea44af</div>
+                                        <div class="message">[flang][OpenACC][NFC] remove legacy openacc-unwrap-fir-box option (#160291)
+
+Remove `openacc-unwrap-fir-box`.
+
+I am working on a change that will map the acc data operation result to
+the symbol so that accesses to variables that appeared in data clauses
+inside a compute region are isolated from access to the variable outside
+the region (using different SSA value).
+
+This change will not work properly with the `openacc-unwrap-fir-box`
+option that make the data operation result/operand a raw pointer, even
+in cases where more information about the variable is needed to later
+work with it.
+
+It would likely be technically possible to reconstruct the variable from
+the raw result. But this would add extra complexity to a legacy option.
+I think it is better to remove it, and to work on some pass to "unbox"
+as we can later (leveraging inlining).</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#23d27d5</div>
+                                        <div class="message">[RISCV] Don't merge pseudo selects with stack adjustment instrs in between (#160105)
+
+When we have sequence of select pseudo instructions with stack adjustment
+instructions in between, we shouldn't apply the optimization, proposed by link 
+https://reviews.llvm.org/D59355. If optimization is applied, 
+function won't be marked `adjustsStack` during Finalize ISel pass.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8cb03a0</div>
+                                        <div class="message">[libc++][NFC] Refactor __is_allocator to be a variable template (#159584)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b5bb50d</div>
+                                        <div class="message">[libc++] Simplify __memory/shared_count.h a bit (#160048)
+
+This removes a few checks that aren't required anymore and moves some
+code around to the places where it's actually used.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#330522e</div>
+                                        <div class="message">[libc++] Simplify some of the &lt;bit&gt; functions (#160267)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b98f0b8</div>
+                                        <div class="message">[clang][bytecode] Use stack offsets for This/RVO ptrs (#160285)
+
+Instead of keeping the `Pointer`s itself in `InterpFrame`, just save
+them as offsets and use stackRef&lt;&gt;() when we need them.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eaff28c</div>
+                                        <div class="message">[MachineScheduler] Turn SU-&gt;isScheduled check into an assert in pickNode() (#160145)
+
+It is unnecessary and confusing to have a do/while loop that checks
+SU-&gt;isScheduled as this should never be true.
+
+ScheduleDAGMI::updateQueues() is always called after pickNode() and it
+sets isScheduled on the SU. Turn this into an assertion instead.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#14f5504</div>
+                                        <div class="message">[mlir][tosa] Fix validation check on controlflow operators (#159754)
+
+Previoulsy the error_if check for controlflow operators would silently
+fail on valid controflow operators. This was due to incorrect return
+logic in the validation function. This commit fixes that logic.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Bertik23/llvm-project</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">parser-location-info</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e6142b5</div>
+                                        <div class="message">include in namespace llvm</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">Bertik23/llvm-project</span>
                                     </div>
@@ -442,46 +667,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">JanJecmen/llvm-project</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">vscode-irviz</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1cf54ad</div>
-                                        <div class="message">Set output channel type to log to fix random bug</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Bertik23/llvm-project</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">goto-definition</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f890a9d</div>
-                                        <div class="message">even nicer API</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -525,7 +710,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 1 Oct 2025, 13:03:47
+                            On 29 Sept 2025, 16:36:31
                         </div>
                     </section>
                 </div>
@@ -535,14 +720,14 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Update LSP capabilities in README
+                            bit nicer API
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">53bf014c</span>
-                            <span class="code">llvm/tools/llvm-lsp/README.md</span>
+                            <span class="code">1d1c28ab</span>
+                            <span class="code">llvm/include/llvm/IR/Value.h</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--0</span>
@@ -553,14 +738,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -25,6 +25,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">* `textDocumentSync.openClose`: Synchronizes document content with the server.<br /></span><span class="token prefix unchanged">·</span><span class="token line">* `referencesProvider`: Finds all references to a symbol.<br /></span><span class="token prefix unchanged">·</span><span class="token line">* `codeActionProvider`: Provides code actions, such as quick fixes and refactorings. This server uses it to provide CFG views.<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">* `documentsSymbolProvider`: Provides a tree of document symbols, enables breadcrums navigation in the editor.<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">---<br /></span><span class="token prefix unchanged">·</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -67,6 +67,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">   return Line &lt; RHS.Line || (Line == RHS.Line &amp;&amp; Col &lt; RHS.Col);<br /></span><span class="token prefix unchanged">·</span><span class="token line"> }<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"> constexpr FileLoc() : Line(0), Col(0) {}<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"> constexpr FileLoc(unsigned L, unsigned C) : Line(L), Col(C) {}<br /></span><span class="token prefix unchanged">·</span><span class="token line">};<br /></span><span class="token prefix unchanged">·</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Oct 2025, 22:27:29 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Oct 2025, 23:22:20 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
