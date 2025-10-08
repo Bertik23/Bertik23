@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1717" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1347" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.deleted{color:#da3633}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.number{color:#2777aa}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.comment{color:#690}.token.coord{color:#d2a8ff;font-weight:700}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -393,19 +393,32 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Bertik23/llvm-project</span>
+                                        Commented on
+                                        <span class="issue">#155797 [LLVM][IR] Add location tracking to LLVM IR parser</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">parser-location-info</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#07689fc</div>
-                                        <div class="message">revert formating</div>
+                                    <div>opened by Bertik23 in <span class="repo">llvm/llvm-project</span></div>
+                                    <div class="comment">I dropped the changes from this PR</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Reviewed
+                                        <span class="issue">#155797 [LLVM][IR] Add location tracking to LLVM IR parser</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">llvm/llvm-project</span></div>
                                 </div>
                             </section>
                         </div>
@@ -422,7 +435,7 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by Bertik23 in <span class="repo">llvm/llvm-project</span></div>
-                                    <div class="comment">Thanks for catching that, it should be a semiopen range</div>
+                                    <div class="comment">that was left there from a development iteration where the test was failing, removed the comment</div>
                                 </div>
                             </section>
                         </div>
@@ -449,333 +462,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4148 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">Bertik23/llvm-project</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">parser-location-info</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c69a70b</div>
-                                        <div class="message">[DirectX] NonUniformResourceIndex lowering (#159608)
-
-Introduces `llvm.{dx|svp}.resource.nonuniformindex` intrinsic that will be used when a resource index is not guaranteed to be uniform across threads (HLSL function NonUniformResourceIndex).
-
-The DXIL lowering layer looks for this intrinsic call in the resource index calculation, makes sure it is reflected in the NonUniform flag on DXIL create handle ops (`dx.op.createHandle` and `dx.op.createHandleFromBinding`), and then removes it from the module.
-
-Closes #155701</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f33d7b</div>
-                                        <div class="message">Revert "[ControlHeightReduction] Drop lifetime annotations where necessary (#159686)"
-
-This reverts commit a00450944d2a91aba302954556c1c23ae049dfc7.
-
-Looks like this one is actually breaking the buildbots. Reverting the switch back
-to IRPGO did not fix things.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f8e51df</div>
-                                        <div class="message">[TTI][ASan][RISCV] reland Move InterestingMemoryOperand to Analysis and embed in MemIntrinsicInfo #157863 (#159713)
-
-[Previously reverted due to failures on asan-rvv-intrinsics.ll, the test
-case is riscv only and it is triggered by other target]
-Reland [#157863](https://github.com/llvm/llvm-project/pull/157863), and
-add `; REQUIRES: riscv-registered-target` in test case to skip the
-configuration that doesn't register riscv target.
-
-
-Previously asan considers target intrinsics as black boxes, so asan
-could not instrument accurate check. This patch make
-SmallVector&lt;InterestingMemoryOperand&gt; a member of MemIntrinsicInfo so
-that TTI can make targets describe their intrinsic informations to asan.
-
-Note,
-1. This patch move InterestingMemoryOperand from Transforms to Analysis.
-2. Extend MemIntrinsicInfo by adding a
-SmallVector&lt;InterestingMemoryOperand&gt; member.
-3. This patch does not support RVV indexed/segment load/store.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#18f7e03</div>
-                                        <div class="message">Revert "Reapply "[Clang][CMake] Use IRPGO instead of FE PGO for Cmake Caches … (#160133)"
-
-This reverts commit 6f64b01810a2e46c1b05b20589272532ba633e56.
-
-This breaks two BOLT buildbots using this cache:
-1. https://lab.llvm.org/staging/#/builders/126/builds/2760
-2. https://lab.llvm.org/buildbot/#/builders/113/builds/8571
-
-More investigation needed, so reverting for now.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0b9d816</div>
-                                        <div class="message">[libc] Remove separate RPC test handling (#160206)
-
-Summary:
-This was originally kept separate so it didn't pollute the name space,
-but now I'm thinking it's just easier to bundle it in with the default
-interface. This means that we'll have a bit of extra code for people
-using the server.h file to handle libc opcodes, but it's minimal (3
-functions) and it simplifies this.
-
-I'm doing this because I'm hoping to move the GPU tester binary to
-liboffload which handles `libc` opcodes internally except these. This is
-the easier option compared to adding a hook to register custom handlers
-there.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#28d68f9</div>
-                                        <div class="message">[mlir][spirv] Simplify `CompositeType::getNumElements`. NFC. (#160202)
-
-Use a type switch to simplify the implementation.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#01b60df</div>
-                                        <div class="message">[CIR][NFC] Fix memory corruption in type converter (#160211)
-
-This fixes a problem where a rogue call to converter.addConversion
-inside of a type conversion lambda was causing memory corruption that
-(luckily!) triggered a test failure on some build platforms.
-
-Near as I can tell, the unwanted addConversion call was the result of a
-bad rebase (by me). The code shouldn't have ever been there. Because the
-failure depends on the build environment, I can't find a reliable way to
-test this change.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b3d0865</div>
-                                        <div class="message">[runtimes] Add a missing LLVM_LIBDIR_SUFFIX (#159758)
-
-Ensure that LLVM_LIBRARY_DIR uses LLVM_LIBDIR_SUFFIX. This fixes issues
-when the OS prefers to install libraries under lib64, for example.
-
-Co-authored-by: Joseph Huber &lt;huberjn@outlook.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0d22f83</div>
-                                        <div class="message">[LV][EVL] Remove metadata on EVL vectorized loops (#155760)
-
-This patch  removes the metadata emission for EVL‑vectorized loops,
-since there is no current in-tree consumer: 
-   1) after VPlan performs canonical IV replacement #147222 and 
-2) RISCV dropped EVLIndVarSimplifyPass #151483, which was the only user
-of this metadata.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7a8bff4</div>
-                                        <div class="message">[mlir][tosa-to-linalg] fix arithmetic_right_shift conversion with round (#159930)
-
-Fixed: #154259
-
-According to TOSA spec, `tosa.arithmetic_right_shift` should handle
-round.
-```
-if (round == true &amp;&amp; static_cast&lt;int32_t&gt;(value2) &gt; 0 &amp;&amp;
-    (apply_arith_rshift&lt;in_out_t&gt;(value1, apply_sub_s&lt;in_out_t&gt;(value2, 1)) &amp; 1 != 0)) {
-    result = result + 1;
-}
-```
-
-The original conversion is the similar as definition, and will convert
-to pseudo code
-```c++
-result = (value1 &gt;&gt; value2) +
-              ( (i1)(value2 &gt; 0) &amp; (i1)((value1 &gt;&gt; (value2 - 1)) &amp; 1) )
-```
-
-But when value2 is 0,`value1 &gt;&gt; (value2 - 1)` will produce poison value
-because performing arithmetic right shift on a negative number. Then the
-poison value propagate to the final result.
-
-This PR wants to change the conversion to `arith.select` to stop poison
-propagation.
-
-```c++
-result = (value1 &gt;&gt; value2) + 
-             (value2 &gt; 0) ? (i1)((value1 &gt;&gt; (value2 - 1)) &amp; 1) : (i1)(0)
-```</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d08e445</div>
-                                        <div class="message">Greedy: Make eviction broken hint cost use CopyCost units (#160084)
-
-Change the eviction advisor heuristic cost based on number of broken
-hints to work in units of copy cost, rather than a magic number 1.
-The intent is to allow breaking hints for cheap subregisters in favor
-of more expensive register tuples.
-
-The llvm.amdgcn.image.dim.gfx90a.ll change shows a simple example of
-the case I am attempting to solve. Use of tuples in ABI contexts ends up
-looking like this:
-
-  %argN = COPY $vgprN
-  %tuple = inst %argN
-  $vgpr0 = COPY %tuple.sub0
-  $vgpr1 = COPY %tuple.sub1
-  $vgpr2 = COPY %tuple.sub2
-  $vgpr3 = COPY %tuple.sub3
-
-Since there are physreg copies in the input and output sequence,
-both have hints to a physreg. The wider tuple hint on the output
-should win though, since this satisfies 4 hints instead of 1.
-
-This is the obvious part of a larger change to better handle
-subregister interference with register tuples, and is not sufficient
-to handle the original case I am looking at. There are several bugs here
-that are proving tricky to untangle. In particular, there is a double
-counting bug for all registers with multiple regunits; the cost of
-breaking
-the interfering hint is added for each interfering virtual register,
-which have repeat visits across regunits. Fixing the double counting
-badly
-regresses a number of RISCV tests, which seem to rely on overestimating 
-the cost in tryFindEvictionCandidate to avoid early-exiting the eviction
-candidate loop (RISCV is possibly underestimating the copy costs for
-vector registers).</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa19a57</div>
-                                        <div class="message">[mlir][SCF] Allow using a custom operation to generate loops with `mlir::tileUsingSCF`. (#159660)
-
-This change adds an option to use a custom operation to generate the
-inter-tile loops during tiling. When the loop type is set to
-scf::SCFTilingOptions::LoopType::CustomOp, the method
-mlir::tileUsingSCF provides two callback functions
-
-First one to generate the header of the loop.
-Second one to generate the terminator of the loop.
-These methods receive the information needed to generate the
-loops/terminator and expect to return information needed to generate
-the code for the intra-tile computation. See comments for more
-details.
-
-Presently this is adds support only for tiling. Subsequent commits
-will update this to add support for fusion as well.
-
-The PR is split into two commits.
-
-The first commit is an NFC that just refactors the code (and cleans up
-some naming) to make it easier to add the support for custom loop
-operations.
-The second commit adds the support for using a custom loop operation, as
-well as a test to exercise this path.
-
-Note that this is duplicate of
-https://github.com/llvm/llvm-project/pull/159506 that was accidently
-committed and was reverted in
-https://github.com/llvm/llvm-project/pull/159598 to wait for reviews.
-
-Signed-off-by: MaheshRavishankar
-[mahesh.ravishankar@gmail.com](mailto:mahesh.ravishankar@gmail.com)
-
----------
-
-Signed-off-by: MaheshRavishankar &lt;mahesh.ravishankar@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9de9f03</div>
-                                        <div class="message">[SemaHLSL] Correct descriptor range overflow validation (#159475)
-
-This pr corrects the validation behaviour to allow valid root signatures
-of the form:
-`DescriptorTable(CBV(b0, offset = 4294967294), CBV(b1))`
-which will append a range onto the location of `UINT_MAX`, which is
-valid.
-
-Resolves: https://github.com/llvm/llvm-project/issues/159478.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4a9df48</div>
-                                        <div class="message">[MLIR][Python] restore APIs in terms of Mlir* types (#160203)
-
-https://github.com/llvm/llvm-project/pull/157930 changed a few APIs from
-`Mlir*` to `Py*` and broke users that were using them (see
-https://github.com/llvm/llvm-project/pull/160183#issuecomment-3321383969).
-This PR restores those APIs.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#42b195e</div>
-                                        <div class="message">[llvm][AsmPrinter] Add direct calls to callgraph section (#155706)
-
-Extend CallGraphSection to include metadata about direct calls. This
-simplifies the design of tools that must parse .callgraph section to not
-require dependency on MC layer.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#61a535a</div>
-                                        <div class="message">[lld][ELF] Fix gc-sections-print.s failure in read-only directories (#160204)
-
-If ld.lld is invoked without the `-o` option, it defaults to writing its
-output to `a.out` in the current directory. This can cause 'Permission
-denied' errors if a test is executed in a directory without write
-permissions, as can happen in some build environments.
-
-Add `-o %t2` to this command, consistent with other commands in the same
-test file, to prevent this failure by ensuring ld.lld writes to a
-temporary file instead of `a.out`.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#360b059</div>
-                                        <div class="message">[Github] Switch pr-code-lint.yml to tj-actions/changed-files
-
-Similar to #158335. pr-code-lint.yml was in progress as a PR when that
-change landed, so this workflow did not get updated.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f2a00d</div>
-                                        <div class="message">[SDPatternMatcher] Remove std::optional around SDNodeFlags in BinaryOpc_match. NFC (#160178)
-
-Using all 0 flags as the default works correctly. We'll get (0 &amp;
-N-&gt;getFlags()) == 0 which is always true which is what we want.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#207d399</div>
-                                        <div class="message">[Github] Bump CI Container clang Version to 21.1.1
-
-This patch bumps the CI container version to the latest release version.
-No particular reason to do this other than to ensure that we are using
-a clang built with IRPGO now that has relanded for the slight
-performance benefit.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f64b01</div>
-                                        <div class="message">Reapply "[Clang][CMake] Use IRPGO instead of FE PGO for Cmake Caches … (#160133)
-
-…(#155957)"
-
-This reverts commit 8ed489914e5bdfe65e1c8fdeec335f21cd7b33a1.
-
-This reapplies the original patch now that the issue in
-ControlHeightReduction (#159621) has been fixed in #159686.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">Bertik23/llvm-project</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">parser-location-info</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4d51839</div>
-                                        <div class="message">Doc coments with ///</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1de2447</div>
-                                        <div class="message">remove old irrelevant comment</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f201d1f</div>
-                                        <div class="message">actually fix filelocrange openness</div>
+                                        <div class="sha">#66ce6b6</div>
+                                        <div class="message">make clang-format happy</div>
                                     </div>
                                 </div>
                             </section>
@@ -823,7 +518,7 @@ ControlHeightReduction (#159621) has been fixed in #159686.</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 8 Oct 2025, 11:55:20
+                            On 8 Oct 2025, 12:54:41
                         </div>
                     </section>
                 </div>
@@ -833,16 +528,16 @@ ControlHeightReduction (#159621) has been fixed in #159686.</div>
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            full path to includes
+                            remove old irrelevant comment
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">ff9a33d4</span>
-                            <span class="code">llvm/include/llvm/AsmParser/LLParser.h</span>
+                            <span class="code">1de2447d</span>
+                            <span class="code">llvm/unittests/AsmParser/AsmParserTest.cpp</span>
                             <span class="code">
-                                <span class="snippet additions">++2</span>
+                                <span class="snippet additions">++0</span>
                                 <span class="snippet deletions">--2</span>
                             </span>
                         </div>
@@ -851,14 +546,14 @@ ControlHeightReduction (#159621) has been fixed in #159686.</div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -13,9 +13,9 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">#ifndef LLVM_ASMPARSER_LLPARSER_H<br /></span><span class="token prefix unchanged">·</span><span class="token line">#define LLVM_ASMPARSER_LLPARSER_H<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">#include "AsmParserContext.h"<br /></span><span class="token prefix deleted">-</span><span class="token line">#include "LLLexer.h"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">#include "llvm/ADT/StringMap.h"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">#include "llvm/AsmParser/AsmParserContext.h"<br /></span><span class="token prefix inserted">+</span><span class="token line">#include "llvm/AsmParser/LLLexer.h"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">#include "llvm/AsmParser/NumberedValues.h"<br /></span><span class="token prefix unchanged">·</span><span class="token line">#include "llvm/AsmParser/Parser.h"<br /></span><span class="token prefix unchanged">·</span><span class="token line">#include "llvm/IR/Attributes.h"</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -495,8 +495,6 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">} while (false)<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">TEST(AsmParserTest, ParserObjectLocations) {<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">// Expected to fail with function location starting one character later, needs<br /></span><span class="token prefix deleted">-</span><span class="token line">// a fix<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">StringRef Source = "define i32 @main() {\n"<br /></span><span class="token prefix unchanged">·</span><span class="token line">                   "entry:\n"<br /></span><span class="token prefix unchanged">·</span><span class="token line">                   "    %a = add i32 1, 2\n"</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Oct 2025, 20:36:42 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Oct 2025, 21:19:37 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
